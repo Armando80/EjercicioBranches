@@ -1,4 +1,5 @@
 #crea la torta
+#refactor tortas
 class Torta
 
 	COOKING_TIMES = {jamon: 5, pierna: 10, milanesa: 15}
